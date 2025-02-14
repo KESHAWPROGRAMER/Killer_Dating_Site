@@ -1,0 +1,173 @@
+.h{
+    border: 6px solid black;
+     
+ }
+ .nav{
+     background-color: black;
+ 
+ }
+ .n img{
+     width: 80px;
+ }
+ .n{
+     display: inline-block;
+     justify-content: center;
+     align-items: center;
+ 
+ }
+ .c{
+     color: rgb(220, 93, 136);
+     font-size: 60px;
+     font-weight: 1000;
+     text-indent: 40px;
+     text-decoration: underline;
+     justify-content: center;
+     align-items: center;
+ }
+ .o{
+     display: inline-block;
+     background-color: rgb(220, 93, 136); 
+     font-size: 20px;
+     font-weight: 700;
+     gap: 30px;
+     padding: 7px;
+     width: 200px;
+     justify-content: center;
+     align-items: center;
+     text-indent: 30px;
+ 
+ 
+     
+ }
+ .ol{
+     float: right;
+     margin-top: 40px;
+     width: 900px;
+     gap: 30px;
+ }
+ .o:active{
+     color:  rgb(220, 93, 136);
+     background-color: aliceblue;
+ }
+ .h4{
+    margin-top: 150px;
+   margin-left: 80px;
+  }
+ 
+  .f{
+    display: inline-block;
+    width: 330px;
+  }
+  .f img{
+    display: inline-block;
+    width: 180px;
+  }
+  .f3{
+    background-color: rgb(248, 165, 192) ;
+    border-radius: 60px;
+  }
+  .f3:hover{
+   background-color: aliceblue;
+  }
+  .f1:hover{
+   background-color:rgb(248, 165, 192) ;
+   border-radius: 60px;
+ 
+  }
+  .f2:hover{
+   background-color: rgb(248, 165, 192);
+   border-radius: 60px;
+ 
+  }
+  .f4:hover{
+   background-color: rgb(248, 165, 192);
+   border-radius: 60px;
+ 
+  }
+  .h2{
+    width: 0px;
+    height: 0px;
+  }
+  .h2 img{
+    width: 1480px;
+    margin-left: 0px;
+  }
+  
+  .b1{
+    width: 0px;
+    height: 0px;
+  }
+  .b1 img{
+    height: 290px;
+    width: 280px;
+    border: 3px solid rgb(145, 111, 67);
+    border-radius: 100%;
+    margin-top: 600px;
+   
+  }
+  .b2{
+    color: aliceblue;
+    font-size: 40px;
+   
+  }
+  .b{
+    margin-left: 400px;
+  }
+  .d{
+     margin-left: 400px;
+  }
+  .d2{
+    color: aliceblue;
+    font-size: 40px;
+  }
+  .d1 img{
+    height: 280px;
+    width: 250px;
+    border: 3px solid rgb(145, 111, 67);
+    border-radius: 100%;
+
+  }
+  .d1{
+    width: 0px;
+    height: 0px;
+  }
+  .h3{
+    background-color: black;
+    margin-left: 0px;
+  }
+  .h3 img{
+    margin-top: 370px;
+    margin-left: 0px;
+  }
+  .h3 .b1 img{
+    margin-left: 50px;
+  }
+  .intro{
+    font-size: 40px;
+    color: aliceblue;
+    margin-top: 670px;
+    margin-left: 490px;
+  }
+  .connect{
+    border: 7px solid rgb(237, 34, 227);
+    color:  rgb(237, 34, 227);
+    background-color: transparent;
+    width: 260px;
+    padding: 10px;
+    font-size: 30px;
+    font-weight: 700;
+    margin-left: 620px;
+    margin-top: 40px;
+    border-radius: 30px;
+  }
+  .connect:hover{
+    color: aliceblue;
+  }
+  .connect:active{
+    color: red
+  }
+  .h6{
+    margin-top: 380px;
+  }
+  
+  

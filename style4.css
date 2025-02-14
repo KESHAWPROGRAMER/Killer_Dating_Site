@@ -1,0 +1,125 @@
+.h{
+    border: 6px solid black;
+     
+ }
+ .nav{
+     background-color: black;
+ 
+ }
+ .n img{
+     width: 80px;
+ }
+ .n{
+     display: inline-block;
+     justify-content: center;
+     align-items: center;
+ 
+ }
+ .c{
+     color: rgb(220, 93, 136);
+     font-size: 60px;
+     font-weight: 1000;
+     text-indent: 40px;
+     text-decoration: underline;
+     justify-content: center;
+     align-items: center;
+ }
+ .o{
+     display: inline-block;
+     background-color: rgb(220, 93, 136); 
+     font-size: 20px;
+     font-weight: 700;
+     gap: 30px;
+     padding: 7px;
+     width: 200px;
+     justify-content: center;
+     align-items: center;
+     text-indent: 30px;
+ 
+ 
+     
+ }
+ .ol{
+     float: right;
+     margin-top: 40px;
+     width: 900px;
+     gap: 30px;
+ }
+ .o:active{
+     color: rgb(220, 93, 136);
+     background-color: aliceblue;
+ }
+ .h4{
+    margin-top: 50px;
+   margin-left: 0px;
+  }
+ 
+  .f{
+    display: inline-block;
+    width: 330px;
+  }
+  .f img{
+    display: inline-block;
+    width: 180px;
+  }
+  .f2{
+    background-color: rgb(248, 165, 192) ;
+    border-radius: 60px;
+  }
+  .f2:hover{
+   background-color: aliceblue;
+  }
+  .f1:hover{
+   background-color:rgb(248, 165, 192) ;
+   border-radius: 60px;
+ 
+  }
+  .f4:hover{
+   background-color: rgb(248, 165, 192);
+   border-radius: 60px;
+ 
+  }
+  .f3:hover{
+   background-color: rgb(248, 165, 192);
+   border-radius: 60px;
+ 
+  }
+ .h2{
+    display: flex;
+    width: 100%;
+    height: 40vh;
+    margin: auto;
+    margin-left: -200px;
+
+    justify-content: flex-end;
+ }
+ .h{
+    background-color: rgb(236, 191, 206);
+ }
+ .s1{
+    display: inline-block;
+    font-size: 30px;
+    border: 0px;
+    color: rgb(155, 153, 153);
+ }
+ .s1 img{
+    width: 60px;
+    font-size: 0px;
+ }
+ .search{
+    width: 1200px;
+    height: 65px;
+    background-color: white;
+    border-radius: 60px;
+    margin-top: 30px;
+    margin-left: 0px;
+ }
+ .h3 img{
+    width: 800px;
+    margin-top: 0px;
+    
+ }
+ .h4{
+    background-color: white;
+ }
+ 
